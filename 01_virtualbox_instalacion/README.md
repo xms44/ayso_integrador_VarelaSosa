@@ -8,5 +8,5 @@ En esta sección se documenta el proceso de descarga, instalación y validación
 
 ## Capturas de pantalla
 En esta carpeta se incluyen las siguientes imágenes:
-- virtualbox_instalado.jpg -> Instalación finalizada. 
-- virtualbox_ejecutando.jpg -> Interfaz de VirtualBox abierta correctamente.
+- [virtualbox_instalado.jpg](./virtualbox_instalado.jpg) -> Instalación finalizada. 
+- [virtualbox_ejecutando.jpg](./virtualbox_ejecutando.jpg) -> Interfaz de VirtualBox abierta correctamente.
