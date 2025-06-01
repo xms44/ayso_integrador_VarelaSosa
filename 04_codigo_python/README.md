@@ -6,7 +6,9 @@ El siguiente script fue utilizado en un trabajo práctico de la materia Matemát
 - Se creó un archivo llamado `ayso.py` desde la terminal con el editor `nano`.
 
 ### Capturas de pantalla
-
+- [python_version.png](./python_version.png) -> Verificación de la versión instalada de Python.
+- [nano_ayso.png](./nano_ayso.png) -> Creación del archivo `ayso.py` utilizando el editor de texto `nano`.
+  
 ## Script ejecutado
 ```python
 import time # Importamos la biblioteca time para agregar la funcion time.sleep().
@@ -26,3 +28,4 @@ for numero in range(0, 16):
 ```
 
 ### Capturas de la ejecución del script
+- [ejecucion_script.png](./ejecucion_script.png) → Ejecución del script en la terminal de Linux Mint.
