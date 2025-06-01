@@ -11,10 +11,19 @@ En esta sección se documentan las comprobaciones que validan el funcionamiento 
   
 ## Verificación del sistema operativo y recursos
 - Se utilizó `neofetch` para obtener detalles del sistema instalado.
-- Instalación de `htop`
+- Procedimos con la instalación de `htop`
 - Se comprobó el uso de CPU y memoria con `htop`.
 
 ### Capturas de pantalla
+- [neofetch.jpg](./neofetch.jpg) -> Información del sistema.
+- [htop_instalacion.jpg](./htop_instalacion.jpg) -> Instalación de htop.
+- [htop_ejecucion.jpg](./htop_ejecucion.jpg) -> Uso de recursos en tiempo real.
 
+## Conectividad
+
+Para comprobar que la máquina virtual tenía acceso a internet, se ejecutó el comando `ping google.com` desde la terminal. Esto valida la correcta configuración de red (modo NAT) y la funcionalidad de conectividad externa.
+
+- [ping_conectividad.png](./ping_conectividad.png) -> Resultado del `ping` a `google.com` mostrando conectividad activa.
+  
 ## Observaciones
 La máquina virtual opera correctamente y responde bien con los recursos asignados (2 GB RAM, 2 núcleos CPU).
