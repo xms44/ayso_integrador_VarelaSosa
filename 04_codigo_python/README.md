@@ -1,5 +1,6 @@
 # Código ejecutado en Linux Mint
 El siguiente script fue utilizado en un trabajo práctico de la materia Matemática para convertir números del 0 al 15 a su representación binaria. Incluye una pausa de un segundo entre cada número para visualizar el proceso paso a paso.
+https://github.com/santiagovOK/UTN-TUPaD-P1/blob/main/mate_semanaIntegracion1/tp_semana-integracion-01.py
 
 ## Python en Linux Mint
 - Se ejecutó `python3 --version` para verificar que Python está instalado por defecto.
