@@ -9,3 +9,8 @@ En esta sección se documenta la creación de una nueva máquina virtual con Vir
 - Se configuró el adaptador de red como NAT.
 
 ## Capturas de pantalla
+- [vm_config_basica.png](./vm_config_basica.png) -> Configuración inicial de nombre, tipo y versión.
+- [vm_config_memoria.png](./vm_config_memoria.png) -> Selección de cantidad de memoria RAM.
+- [vm_config_disco.png](./vm_config_disco.png) -> Configuración del disco duro virtual.
+- [vm_config_red.png](./vm_config_red.png) -> Configuración del adaptador de red.
+- [vm_acceso.png](./vm_acceso.png) -> Iniciando la VM.
