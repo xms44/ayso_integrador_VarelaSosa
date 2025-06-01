@@ -6,7 +6,9 @@ En esta sección se documentan las comprobaciones que validan el funcionamiento 
 - Se accedió al entorno gráfico de Linux Mint XFCE.
 
 ### Capturas de pantalla
-
+- [linuxmint_inicio.png](./linuxmint_inicio.png) -> Entorno gráfico iniciado correctamente.
+- [linuxmint_menu.png](./linuxmint_menu.png) -> Acceso al menú de aplicaciones.
+  
 ## Verificación del sistema operativo y recursos
 - Se utilizó `neofetch` para obtener detalles del sistema instalado.
 - Instalación de `htop`
