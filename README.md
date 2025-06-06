@@ -19,7 +19,7 @@ Simular un entorno de trabajo aislado utilizando VirtualBox como hypervisor de t
 
 --
 
-**Alumnos (ambos Comisión 22):**
+**Alumnos (ambos de Comisión 22):**
 - Santiago Octavio Varela (santiagov.linked@gmail.com) / [GitHub @santiagovOK](https://github.com/santiagovOK) 
 - Ximena Maribel Sosa (ximenasosa44@gmail.com) / [GitHub @xms44](https://github.com/xms44) 
 
